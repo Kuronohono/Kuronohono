@@ -3,11 +3,11 @@ I am a software developer based in Thessaloniki Greece, studying Information and
 
 # 🛠️ Skills
 
-### Languages: Java, C#, JavaScript, Dart, SQL, HTML/CSS, Python, Kotlin
+### 🎓 Languages: Java, C#, JavaScript, Dart, SQL, HTML/CSS, Python, Kotlin
 
-### Frameworks& Platforms: Django, React, Spring Boot, Flutter, Unity, JavaFX, Android SDK, Pyside6/QML
+### 🧰 Frameworks& Platforms: Django, React, Spring Boot, Flutter, Unity, JavaFX, Android SDK, Pyside6/QML
 
-### Developer Tools: Git, Firebase, Blender, Android Studio, IntelliJ, VS Code
+### 🖥️ Developer Tools: Git, Firebase, Blender, Android Studio, IntelliJ, VS Code, PostMan
 
 # 💼 Experience
 
