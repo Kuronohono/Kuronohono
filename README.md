@@ -11,7 +11,7 @@ I am a software developer based in Thessaloniki Greece, studying Information and
 
 # 💼 Experience
 
-## Freelance Developer - Thessaloniki, Greece
+## 🧑‍💻 Freelance Developer - Thessaloniki, Greece
 
 - Delivered a cross-platform property management app (Flutter/Firebase) for a short-term rental client, with multi-room calendar reservation tracking.
 - Built a custom invoice data matching desktop tool (JavaFX) for a supermarket client, automating PDF-to-Excel product comparison with editable fields and exportable output.
